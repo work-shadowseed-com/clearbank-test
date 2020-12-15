@@ -1,0 +1,3 @@
+﻿The validator unit tests are all very similar, and could easily share a <Generic> base class to cut away a lot of the code 
+duplication, however, I have generally found that unit tests should be a simple as possible (not over-engineered) to avoid mistakes in
+the tests and make them easy to understand and follow (KISS).
